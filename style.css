@@ -1,0 +1,98 @@
+body {
+    font-family: sans-serif;
+}
+
+ header {
+          background-color: blue;
+          color: white;
+          margin: 20px;
+          padding: 20px;
+          border-radius: 10px;
+
+ }
+
+
+header a {
+    color: red;
+
+}
+
+h1  {
+
+    background-color:  crimson;
+    color: orange;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+footer {
+
+background-color: rgb(179, 79, 79);
+color: black;
+margin: 20px;
+padding: 20px;
+
+
+}
+
+footer p {
+    background-color: orange;
+    padding: 10px;
+
+}
+
+nav a {
+    margin: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    text-align: center;
+border: 3px solid red;
+padding: 10px;
+ border-radius: 20px;
+
+}
+
+.aboba {
+
+
+
+margin: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(44, 212, 44);
+border: 3px solid red;
+padding: 10px;
+ border-radius: 20px;
+
+ }
+
+ .ded {
+
+     border: 3px solid red;
+     border-radius: 20px;
+ }
+
+ .ba {
+
+  border: 3px solid blue;
+  margin: 10px;
+  padding: 10px;
+
+ }
+
+ .vvv {
+      border: 3px solid blue;
+      margin: 10px;
+  padding: 10px;
+  
+
+ }
+
+ h2 {
+     color: blue;
+
+ }
